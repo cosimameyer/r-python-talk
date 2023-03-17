@@ -14,3 +14,5 @@
 
 [Google Colab]()
 
+
+For this workshop, we work with data from a Mental Health Survey in Tech, provided by [Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey). The data can be downloaded directly from Kaggle or accessed in the `/data/` folder here.
