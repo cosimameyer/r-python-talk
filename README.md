@@ -2,7 +2,11 @@
 
 ![](/img/cover.png)
 
-WIDS 2023
+📍 WIDS 2023 (virtual)
+
+-------
+
+*(to be added)*
 
 [Slides]()
 
