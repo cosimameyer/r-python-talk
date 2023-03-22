@@ -8,7 +8,7 @@
 
 ## Material 
 
-- [Slides]()
+- [Slides](https://cosimameyer.com/slides/wids_2023_workshop/#/title-slide)
 - [Google Colab (sandbox mode)](https://colab.research.google.com/drive/1VpQMC9OiQ46RMTR1dzMssb3bPVe80wQZ?usp=sharing#offline=true&sandboxMode=true)
 - [Jupyter Notebook](https://github.com/cosimameyer/r-python-talk/blob/main/PythonistR_WiDS_2023_Workshop.ipynb)
 
